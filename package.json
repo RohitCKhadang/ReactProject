@@ -1,0 +1,29 @@
+{
+  "name": "reactproject",
+  "version": "1.0.0",
+  "description": "This is react by me",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RohitCKhadang/ReactProject.git"
+  },
+  "keywords": [],
+  "author": "Rohit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RohitCKhadang/ReactProject/issues"
+  },
+  "homepage": "https://github.com/RohitCKhadang/ReactProject#readme",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browserslist":[
+    "last 2 versions"
+  ]
+}
